@@ -1,0 +1,113 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.h1{ color: azure;
+    font-size: 48px;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.p2{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+p{
+    color: rgb(248, 248, 248);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.venezuela
+{
+
+    background-color: rgb(66, 165, 247);
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px 30px 50px;
+    /*margin-left: 100px;*/
+}
+h2{
+    color: blue;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.head{
+    background-color: rgb(56, 182, 255);
+    color: rgb(221, 221, 221);
+    font-size: 36px;
+    font-weight: 600;
+    padding: 80px 100px 150px 100px;
+}
+.head h2{
+    color: rgb(112, 255, 160);
+    font-size: 25px;
+}
+.head p{
+    color: white;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.head ul{
+    list-style:  none;
+    line-height: 1.5em;
+}
+head ul li{
+    font-size: 18px;
+    font-weight: 300;
+    font: 18px 300;
+}
+.html2
+{
+    background-color: black;
+}
+.redes {
+    color: rgb(243, 50, 146);
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px 140px 100px 140px;
+}
+.contacto{
+    background-color: rgb(107, 104, 255);
+    padding: 100px;rgb(129, 127, 255)rgb(107, 104, 255)
+}
+input[type="text"], input[type="email"]{
+    width: 100%;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+}
+select{
+    
+        width: 100%;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 18px;
+        padding: 10px 10px 10px 10px;
+        border-radius: 15px;
+}
+input[type="submit"]{
+    width: 300px;
+    background-color: black;
+    color: white;
+    padding: 25px;
+    margin-top: 15px;
+}
